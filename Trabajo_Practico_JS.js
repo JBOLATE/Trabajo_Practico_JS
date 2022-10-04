@@ -23,3 +23,4 @@ function baseTriangulo(){
     alert("la base del triangulo es:" + base);
 
 }
+//#endregion
