@@ -20,4 +20,6 @@ function baseTriangulo(){
 
     base = (2*area)/altura;
 
+    alert("la base del triangulo es:" + base);
+
 }
