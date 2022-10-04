@@ -11,4 +11,6 @@ console.log (nombre2)
 //#endregion
 
 //#region 
-function baseTriangulo(){}
+function baseTriangulo(){
+    var area, altura, base;
+}
