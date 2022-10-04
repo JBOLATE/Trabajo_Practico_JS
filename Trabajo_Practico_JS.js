@@ -15,4 +15,6 @@ function baseTriangulo(){
     var area, altura, base;
 
     area = parseInt(prompt("ingrese el area del triangulo"));
+
+    altura = parseInt(prompt("ingrese la altura del triangulo"));
 }
