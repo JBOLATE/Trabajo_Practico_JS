@@ -5,3 +5,4 @@ const nombre2 = `Olate va mejorando`
 //#endregion
 
 //#region 
+console.log (nombre)
