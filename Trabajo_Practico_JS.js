@@ -13,4 +13,6 @@ console.log (nombre2)
 //#region 
 function baseTriangulo(){
     var area, altura, base;
+
+    area = parseInt(prompt("ingrese el area del triangulo"));
 }
