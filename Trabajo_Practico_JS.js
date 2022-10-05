@@ -27,4 +27,5 @@ function baseTriangulo(){
 
 //#region 
  var inicio = 0;
- var final = 10;
+ var fin = 10;
+ for (inicio of fin)
