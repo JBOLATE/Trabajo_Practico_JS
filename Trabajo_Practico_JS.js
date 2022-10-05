@@ -31,3 +31,4 @@ function baseTriangulo(){
  for (inicio of fin){
     inicio++;
  }
+ //#endregion
