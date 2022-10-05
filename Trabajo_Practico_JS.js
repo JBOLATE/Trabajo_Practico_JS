@@ -24,3 +24,5 @@ function baseTriangulo(){
 
 }
 //#endregion
+
+//#region 
