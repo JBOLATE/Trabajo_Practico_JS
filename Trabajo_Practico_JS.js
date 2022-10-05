@@ -28,4 +28,6 @@ function baseTriangulo(){
 //#region 
  var inicio = 0;
  var fin = 10;
- for (inicio of fin)
+ for (inicio of fin){
+    inicio++;
+ }
