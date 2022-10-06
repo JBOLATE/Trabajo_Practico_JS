@@ -26,9 +26,7 @@ function baseTriangulo(){
 //#endregion
 
 //#region 
- var inicio = 0;
- var fin = 10;
- for (inicio of fin){
-    inicio++;
+ public static void main(String[] args){
+    
  }
- //#endregion
+//#endregion
