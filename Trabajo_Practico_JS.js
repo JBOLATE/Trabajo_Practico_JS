@@ -33,5 +33,8 @@ function baseTriangulo(){
         5,
         2
     };
+    for (int dato: arreglo) {
+        System.out.println(“El número es: “+(dato));
+    }
  }
 //#endregion
