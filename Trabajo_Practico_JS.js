@@ -27,6 +27,8 @@ function baseTriangulo(){
 
 //#region 
  public static void main(String[] args){
-    
+    int[] arreglo = {
+        
+    }
  }
 //#endregion
